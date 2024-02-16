@@ -1,0 +1,5 @@
+name;breed;health
+Bodri;puli; 50
+Cézár;dobermann; 50
+Rex;német juhász; 50
+Béla;keverék; 50

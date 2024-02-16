@@ -1,0 +1,22 @@
+Játék leírás: https://kaszinok.org/leirasok/asztali-jatekok/rulett/francia-rulett
+
+Feladatok: 
+	1. Két új menüpont: 1-18 és 19-36. Nyeremény = tét
+	2. Új menüpont: "tucatok"
+	   Megjelenik egy újabb menü:
+			- 1-12
+			- 13-24
+			- 25-36 
+	   Nyeremény = tét * 2
+	3. Új menüpont: Oszlopok
+	   Almenü:
+			- 1. oszlop (1, 4, 7 ... )    3-mal osztva 1 a maradék
+			- 2. oszlop (2, 5, 8 ... )    3-mal osztva 2 a maradék
+			- 3. oszlop (3, 6, 9 ... )    3-mal oszthatóak
+	   Nyeremény = tét * 2
+	4. Új menüpont: konkrét szám
+	   Bekér egy számot 0-36-ig, ha eltalálja, akkor a nyeremény = tét * 35
+	5. Két új menüpont: piros / fekete
+	   Nyeremény = tét
+	   
+A nulla gurítás mindíg veszít, kivéve ha a játékos erre a számra tesz.

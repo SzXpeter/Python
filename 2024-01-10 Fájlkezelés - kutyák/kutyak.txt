@@ -1,0 +1,6 @@
+name;breed;health
+Bodri;puli;50
+Cézár;dobermann;50
+Béla;keverék;50
+NEM;IGEN;90
+Buksi;Német juhász;50

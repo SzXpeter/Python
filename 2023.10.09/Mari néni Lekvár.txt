@@ -1,0 +1,18 @@
+Mari néni eperlekvárt fõz. Az eper termési ideje kb. 1 hónap (30 nap). 
+Mari néni minden nap megy az eperföldre szedd magad akcióban epret szedni. 
+Mari néni naponta 0-10 kg epret szed, amibõl utána lekvárt fõz. 
+Írjuk ki, hogy mennyi epret szedett a hónapban Mari néni!
+pl.: 
+-----------------
+  1. 3 kg 
+  2. 1 kg
+  3. 0 kg
+     .
+     .
+ 20. 4 kg
+-----------------
+
+1. Mennyi epret szedett tösszesen Mari néni?
+2. Melyik nap(ok)on szedte Mari néni a legkevesebb epret, és az mennyi volt? Ha nem szedett azo(ko)n a napokon, akko razt írjuk ki, hogy nem szedett!
+3. 1 kg eperbõl 2 üveg lekvár készül. Mari néni az eper kilóját 450 Ft-ért vásárolja. A lekvár többi összetevõje elhanyagolható árú. A lekvárt Mari néni eladja üvegenként 600 Ft-ért. Mennyi Mari néni haszna?
+4. Ha Pista bácsi lekvár helyett pálinkát fõzött volna, akkor 4 kg eperbõl lett volna fél liter pálinka, amit 4000 ft/l áron értékesített volna. Mennyi lett volna a haszon, ha Pista bácsi rendelkezik az eper felett?
