@@ -1,6 +1,6 @@
 def szokoev_e(ev:int) -> bool:
     #TODO: még feladat
-    return ev % 4 == 0
+    return ev % 4 == 0 and ev % 100 != 0 or ev % 400 == 0
 
 print("2. feladat: Szökőév listázó")
 a = int(input("Kérem az egyik évszámot: "))
